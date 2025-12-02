@@ -1,1 +1,1 @@
-# terrycojones
+![Metrics](/github-metrics.svg)
